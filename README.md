@@ -89,6 +89,6 @@ README.md
 
 ## **Author**
 
-**Muzamil Rahman**
+**ALI HUSNAIN**
 
 
